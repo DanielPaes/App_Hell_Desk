@@ -1,0 +1,8 @@
+1#Monitor#Hardware#Não liga.
+1#Som#Hardware#Som muito alto.
+3#Monitor#Hardware#Tela trincada.
+3#Som#Software#Sistema sem som.
+4#Internet#Rede#Sem internet.
+3#Impressão#Impressora#Não imprimi colorido.
+3#Computador não liga#Hardware#Ao apertar botão de ligar, computador não liga. Cabos ok.
+4#Teclado zuado#Hardware#Não digita a letra a.
